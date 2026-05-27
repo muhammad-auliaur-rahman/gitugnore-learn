@@ -1,0 +1,2 @@
+# gitugnore-learn
+belajar gitignore
